@@ -10,7 +10,7 @@
 
 <body onLoad=setTimeout("location.href='top2.html'",3000)>
 <header style="text-align:center;">
-    <h1>ぷれおふぁ！</h1>
+    <h1>不死鳥お勉強用！！</h1>
 </header>
 <div style="text-align:center;">
   <p>analyze your date plan.</p>
