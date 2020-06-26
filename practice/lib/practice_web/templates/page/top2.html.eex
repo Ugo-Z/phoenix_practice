@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+    <link href="style.css" rel="stylesheet" type="text/css">
+<head>
+<meta charset="UTF-8">
+<title>ぷれおふぁ！</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onLoad=setTimeout("location.href='surprise.html'",3000)>
+<header style="text-align:center;">
+    <h1>ぷれおふぁ！</h1>
+</header>
+<div style="text-align:center;">
+  <p>あなたのSNSからデートプランを分析します</p>
+</div>
+
+<section>
+<article style="text-align:center;">
+  <h2>Loading...</h2>
+</article>
+</section>
+<footer>
+</footer>
+</body>
+</html>

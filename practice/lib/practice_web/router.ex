@@ -19,6 +19,18 @@ defmodule PracticeWeb.Router do
     get "/", PageController, :index
   end
 
+  scope "/", PracticeWeb do
+    pipe_through :browser
+
+    get "/top", PageController, :top
+  end
+
+  scope "/", PracticeWeb do
+    pipe_through :browser
+
+    get "/top2", PageController, :top2
+  end
+
   # Other scopes may use custom stacks.
   # scope "/api", PracticeWeb do
   #   pipe_through :api
