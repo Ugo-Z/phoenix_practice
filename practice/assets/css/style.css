@@ -1,0 +1,11 @@
+body, html {
+    background-color: #FFFFFF;
+    height: 10rem;
+    vertical-align: middle;
+    margin: 100px auto;
+}
+
+.header{
+    margin: 20px auto;
+    width: 80%;
+}
